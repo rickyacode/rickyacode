@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**rickyacode/rickyacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> my skill </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![PHP (Statistics)](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=276DC3)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  
+<h3> Connect with Me </h3>
+
+<p align="center">
+<a href="mailto: rickyabdullah851@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-email-blue?style=flat-square&logo=gmail"></a>
+</p>
